@@ -1,0 +1,48 @@
+---
+title: _Chirp!_ Project Report
+subtitle: ITU BDSA 2023 Group `12`
+author:
+- "Markus Brandt Højgaard <mbrh@itu.dk>"
+- "Rasmus Søholt Rasmussen <rhra@itu.dk>"
+- "Allan Sigge Andersen <asia@itu.dk>"
+- "Mads Voss Hvelplund <mhve@itu.dk>"
+- "Lukas Brandt Pallesen <lupa@itu.dk>"
+numbersections: true
+---
+
+# Design and Architecture of _Chirp!_
+
+## Domain model
+
+Here comes a description of our domain model.
+
+![Illustration of the _Chirp!_ data model as UML class diagram.](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dwallpaper&psig=AOvVaw3xFhVWEHGzPNasG5rZq3-L&ust=1702634675223000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCqy8nWjoMDFQAAAAAdAAAAABAE)
+
+## Architecture — In the small
+
+## Architecture of deployed application
+
+## User activities
+
+## Sequence of functionality/calls trough _Chirp!_
+
+# Process
+
+## Build, test, release, and deployment
+
+## Team work
+
+## How to make _Chirp!_ work locally
+
+## How to run test suite locally
+
+# Ethics
+
+## License
+It became clear to us that choosing a license is important to us as developers and to provide guidelines for other developers. This is of course even more relevant if the application were to stay and generate profit.
+Who have chosen the MIT license because of its simplisity and broad permissive nature. The MIT license is also ideal since .NET use the MIT license, however in this case it is not required to use the same license. 
+
+## LLMs, ChatGPT, CoPilot, and others
+A large level model is used for language understanding and generation. We have used ChatGPT and Co-Pilot in this project. We used these to expedite the coding in certain areas, often a bit time consuming. 
+When hitting an error that we could not figure out we have tried asked ChatGPT to help finding the error, sometimes it does actually help!
+We have always been careful when using these tools as they may be wrong, inaccurate, etc. and researched upon information it gave that we were going to use.
